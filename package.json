@@ -1,0 +1,27 @@
+{
+  "name": "STORE V3",
+  "version": "1.0.0",
+  "description": "SCRIPT BOT STORE",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "FOXstore",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:baileys-md@5.0.5",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "jimp": "^0.16.2",
+    "colors": "^1.4.0",
+    "chalk": "^4.1.2",
+    "node-webpmux": "^3.1.3",
+    "form-data": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "moment-timezone": "^0.5.34",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "openai": "latest"
+  }
+}
