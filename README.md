@@ -1,6 +1,6 @@
-# WaBot-OpenAI
+# WaBot Store 
 
-***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
+***WhatsApp Store Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
 ## Perhatian!!
  !!! WhatsApp Bot ini digunakan untuk Jualan
